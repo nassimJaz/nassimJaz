@@ -1,8 +1,8 @@
-<h1 align="center">🔥 Nassim 🔥</h1>
-<h3 align="center">Étudiant · Full-Stack & AI Developer · EPF 4A </h3>
+<h1 align="center">Bonjour 👋 ! Je m'appelle Nassim 🗿</h1>
+<h3 align="center">Étudiant · Full-Stack & AI Developpeur · EPF 4A </h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Functional%20Programming%20%26%20DevOps-blue" alt="Focus: Functional Programming & DevOps">
+  <img src="https://img.shields.io/badge/Focus-Functional%20Programming%20%26%20DevOps-blue" alt="Focus: Programmation fonctionnelle & apprentissage DevOps">
 </div>
 
 ## 🧑‍💻 À propos de moi
