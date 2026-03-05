@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋 ! Je m'appelle Nassim 🗿</h1>
+<h1 align="center">Bonjour 👋 ! Je m'appelle Nassim 🔥</h1>
 <h3 align="center">Étudiant · Full-Stack & AI Developpeur · EPF 4A </h3>
 
 <div align="center">
