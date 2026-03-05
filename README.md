@@ -64,11 +64,15 @@ Passionné par l'Intelligence Artificielle et le développement full-stack, touj
 
 - **Template RAG pour IA** – Développement d’un projet IA utilisant Qdrant et Haystack  
   [Voir le projet](https://github.com/nassimJaz/rag-template)  
+
 - **Poker Texas Hold'em** – Conception d’un jeu via Spring Boot  
   [Voir le projet](https://github.com/nassimJaz/poker-texas-holdem)  
+
 - **Scrapping Moodle EPF** – Téléchargement automatique de tous les PDFs des cours  
   [Voir le projet](https://github.com/nassimJaz/ScrappMesCoursEPF)  
 
+- **Site E-commerce de sacs à main** – Développement d’un site complet en Symfony avec gestion des produits, panier et paiement en ligne  
+  [Voir le projet](https://github.com/nassimJaz/site_e-commerce)
 ---
 
 ## 📫 Contact
