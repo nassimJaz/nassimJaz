@@ -62,14 +62,15 @@ Passionné par l'Intelligence Artificielle et le développement full-stack, touj
 
 ## 📂 Projets
 
+- **Projet Intranet RH** – Développement full-stack d'une application web conteneurisée avec Next.js, API, MySQL, Docker et Nginx  
+  [Voir le projet (via GitLab)](https://gitlab.com/projet-intranet-rh/intra-rh-prod)
+  
 - **Template RAG pour IA** – Développement d’un projet IA utilisant Qdrant et Haystack  
   [Voir le projet](https://github.com/nassimJaz/rag-template)  
 
 - **Poker Texas Hold'em** – Conception d’un jeu via Spring Boot  
   [Voir le projet](https://github.com/nassimJaz/poker-texas-holdem)  
 
-- **Scrapping Moodle EPF** – Téléchargement automatique de tous les PDFs des cours  
-  [Voir le projet](https://github.com/nassimJaz/ScrappMesCoursEPF)  
 
 - **Site E-commerce de sacs à main** – Développement d’un site complet en Symfony avec gestion des produits, panier et paiement en ligne  
   [Voir le projet](https://github.com/nassimJaz/site_e-commerce)
@@ -81,12 +82,10 @@ Passionné par l'Intelligence Artificielle et le développement full-stack, touj
 
 ---
 
-## 📊 GitHub Stats
-
-![Nassim GitHub stats](https://github-readme-stats.vercel.app/api?username=nassimJaz&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nassimJaz&layout=compact&theme=radical)
-
----
-
 ## ⚡ Fun Fact
 Toujours curieux des nouvelles technologies et de l’IA, j’aime expérimenter avec des projets personnels et open source ! 🚀
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nassimJaz&layout=compact&theme=radical)
