@@ -83,7 +83,8 @@ Passionné par l'Intelligence Artificielle et le développement full-stack, touj
 ---
 
 ## ⚡ Fun Fact
-Toujours curieux des nouvelles technologies et de l’IA, j’aime expérimenter avec des projets personnels et open source ! 🚀
+
+<p>Toujours curieux des nouvelles technologies et de l’IA, j’aime expérimenter avec des projets personnels et open source ! 🚀</p>
 ---
 
 ## 📊 GitHub Stats
